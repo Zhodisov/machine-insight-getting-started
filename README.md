@@ -14,6 +14,9 @@
 </div>
 
 
+
+
+
 # Machine Insight application example
 
 This guide shows how to use the Industrial Edge application Machine Insight.
